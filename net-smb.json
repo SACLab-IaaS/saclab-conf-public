@@ -12,8 +12,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -23,8 +23,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -34,8 +34,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -45,8 +45,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -56,8 +56,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -67,8 +67,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -78,8 +78,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     },
     {
@@ -89,8 +89,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer",
-      "write list": "smb-writer",
+      "valid users": "smb-writer, smb-writer2",
+      "write list": "smb-writer, smb-writer2",
       "writeable": "yes"
     }
   ]
