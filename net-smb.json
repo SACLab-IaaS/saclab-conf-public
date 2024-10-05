@@ -1,0 +1,97 @@
+{
+  "global": {
+    "workgroup": "WORKGROUP",
+    "netbios name": "net-fs",
+    "security": "user"
+  },
+  "mountPoints": [
+    {
+      "mountPoint": "platereader-omega-01-2137",
+      "path": "/net-fs/data-points/plate-reader/omega-01-2137",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "platereader-multiskango-01-1203",
+      "path": "/net-fs/data-points/plate-reader/multiskango-01-1203",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "platereader-varioskanlux-01-1203",
+      "path": "/net-fs/data-points/plate-reader/varioskanlux-01-1203",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "platereader-clariostar-01-1203",
+      "path": "/net-fs/data-points/plate-reader/clariostar-01-1203",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "qpcr-stratagene-01-2137",
+      "path": "/net-fs/data-points/qPCR/stratagene-01-2137",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "qpcr-biorad-01-2148",
+      "path": "/net-fs/data-points/qPCR/biorad-01-2148",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "fplc-akta-start-2137",
+      "path": "/net-fs/data-points/fplc/akta-start-2137",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    },
+    {
+      "mountPoint": "omega-01-1203",
+      "path": "/net-fs/data-points/plate-reader/omega-01-1203",
+      "browseable": "no",
+      "read only": "no",
+      "create mask": "0640",
+      "directory mask": "0750",
+      "valid users": "smb-writer",
+      "write list": "smb-writer",
+      "writeable": "yes"
+    }
+  ]
+}
