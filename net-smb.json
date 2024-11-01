@@ -34,8 +34,8 @@
       "read only": "no",
       "create mask": "0640",
       "directory mask": "0750",
-      "valid users": "smb-writer, smb-writer2",
-      "write list": "smb-writer, smb-writer2",
+      "valid users": "smb-writer, smb-writer2, sid",
+      "write list": "smb-writer, smb-writer2, sid",
       "writeable": "yes"
     },
     {
