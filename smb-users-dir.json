@@ -1,0 +1,17 @@
+{
+  paths: [
+    "/A_DRIVE/Plate-Reader/clariostar-01-1203",
+    "/A_DRIVE/Plate-Reader/multiskango-01-1203",
+    "/A_DRIVE/Plate-Reader/omega-01-1203",
+    "/A_DRIVE/Plate-Reader/omega-01-2137",
+    "/A_DRIVE/Plate-Reader/stratagene-01-2137",
+    "/A_DRIVE/Plate-Reader/varioskanlux-01-1203",
+
+    "/A_DRIVE/qPCR/biorad-01-2148",
+    "/A_DRIVE/qPCR/stratagene-01-2137",
+
+    "/A_DRIVE/FPLC/akta-start-2137",
+
+    "/A_DRIVE/echo-mass-spec"
+  ]
+}
